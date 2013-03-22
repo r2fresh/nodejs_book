@@ -1,0 +1,124 @@
+thl0:Published #traceur mirror that exposes #nodejs friendly API:
+https://t.co/o6hD1SJRLJ https://t.co/9rhH2ryWvy
+cc @ErikArvidsson @paul_irish atFri, 22 Mar 2013 01:56:34 +0000
+alexlessard:RT @NodeJsCommunity: 'Interleaving execution of a CPU intensive task with other events..' #nodejs
+
+ http://t.co/5cEmTc2XLK http://t.co/d7MptIiWp1 atFri, 22 Mar 2013 01:50:20 +0000
+NodeJsCommunity:'Interleaving execution of a CPU intensive task with other events..' #nodejs
+
+ http://t.co/5cEmTc2XLK http://t.co/d7MptIiWp1 atFri, 22 Mar 2013 01:23:16 +0000
+korch:hmm #nodejs code that ought to exist: vim.js = key bindings atFri, 22 Mar 2013 01:08:37 +0000
+findmjob:QA Analyst http://t.co/R2CL0Rdmcs #nodejs #nosql #jobs #hiring #careers atFri, 22 Mar 2013 01:02:21 +0000
+girlie_mac:RT @evernote_dev: ICYMI: Build web apps with our new JavaScript SDK for Evernote! http://t.co/xv1hIJfNnx #phonegap #js #win8 #nodejs atFri, 22 Mar 2013 00:50:48 +0000
+holsee:'Interleaving execution of a CPU intensive task with other events..' #nodejs
+
+ http://t.co/lqELMr2VAu atFri, 22 Mar 2013 00:44:39 +0000
+NodeJsCommunity:Looking for interns to come to #Shanghai and hack #nodejs, #Python, #elasticsearch and a gazillion other cool ... http://t.co/dnQirubryc atFri, 22 Mar 2013 00:43:15 +0000
+MagicET:Моя последняя любовь #js + #nodejs на сервере, скоро выложу #uibinding похвастаться. Прототипо-ориентированные языки моща atFri, 22 Mar 2013 00:40:51 +0000
+SaberUK:Beating people who use #nodejs for desktop applications with a 2x4 would also be acceptable. atFri, 22 Mar 2013 00:36:36 +0000
+SaberUK:Perhaps someone should tell the authors of #nodejs that "release early; release often" doesn't mean release every single day. atFri, 22 Mar 2013 00:35:51 +0000
+adamedoe:RT @jQueryBot: javascriptdebug: How to #debug #javascript for your #HTML5 game http://t.co/6zoPNbYKZE #gamedev #jquery #debugger #nodejs #debugging ... atFri, 22 Mar 2013 00:32:34 +0000
+Nigel_V_Thomas:Note to myself, must try nodejs on heroku, it just looks too awesome to miss.
+https://t.co/oxwgGGSkOR #nodejs @heroku atFri, 22 Mar 2013 00:19:05 +0000
+jQueryBot:javascriptdebug: How to #debug #javascript for your #HTML5 game http://t.co/6zoPNbYKZE #gamedev #jquery #debugger #nodejs #debugging ... atFri, 22 Mar 2013 00:18:24 +0000
+AndreCharland:RT @evernote_dev: ICYMI: Build web apps with our new JavaScript SDK for Evernote! http://t.co/xv1hIJfNnx #phonegap #js #win8 #nodejs atFri, 22 Mar 2013 00:17:41 +0000
+devo_ps:RT @hunvreus: Looking for interns to come to #Shanghai and hack #nodejs, #Python, #elasticsearch and a gazillion other cool things. http://t.co/pKSQQagTzV atFri, 22 Mar 2013 00:15:46 +0000
+barcampshanghai:RT @hunvreus: Looking for interns to come to #Shanghai and hack #nodejs, #Python, #elasticsearch and a gazillion other cool things. http://t.co/pKSQQagTzV atFri, 22 Mar 2013 00:15:40 +0000
+hnshanghai:RT @hunvreus: Looking for interns to come to #Shanghai and hack #nodejs, #Python, #elasticsearch and a gazillion other cool things. http://t.co/pKSQQagTzV atFri, 22 Mar 2013 00:15:34 +0000
+wiredcraft:RT @hunvreus: Looking for interns to come to #Shanghai and hack #nodejs, #Python, #elasticsearch and a gazillion other cool things. http://t.co/pKSQQagTzV atFri, 22 Mar 2013 00:15:29 +0000
+hunvreus:Looking for interns to come to #Shanghai and hack #nodejs, #Python, #elasticsearch and a gazillion other cool things. http://t.co/pKSQQagTzV atFri, 22 Mar 2013 00:14:13 +0000
+adamedoe:RT @javascriptdebug: How to #debug #javascript for your #HTML5 game http://t.co/5KxnMxBTXH #gamedev #jquery #debugger #nodejs #debugging #extjs #indiedame #idrtg atFri, 22 Mar 2013 00:12:53 +0000
+crunchvideo:RT @javascriptdebug: How to #debug #javascript for your #HTML5 game http://t.co/5KxnMxBTXH #gamedev #jquery #debugger #nodejs #debugging #extjs #indiedame #idrtg atFri, 22 Mar 2013 00:10:25 +0000
+kenperkins:RT @markdaws: My latest #npm package, easy headless webpage thumbnail generation using #nodejs and #phantomjs https://t.co/tNgUsRaMYN atFri, 22 Mar 2013 00:06:22 +0000
+sandfoxuk:what is this new `npm gitHead` thing in my package.json? #npm or #nodejs people? Internet has not enlightened me…. atFri, 22 Mar 2013 00:06:11 +0000
+RemiDelhaye:Go apprendre a utiliser #SocketIO #NodeJS et #NassCss pour le stage de cet été (y) ! atThu, 21 Mar 2013 23:59:04 +0000
+dominiek:RT @bottlenoseapp: We have several new developer positions in LA! Join us! http://t.co/yIBzHLDb9d  #bigdata #nodejs #devops #ai #nlp atThu, 21 Mar 2013 23:54:06 +0000
+listenyouguys:RT @StrongLoop: The StrongLoop Node Beta 2 distro is out! Its got a cool new cmd line utility for creating #nodejs apps and modules http://t.co/lPx3m5PISF atThu, 21 Mar 2013 23:53:12 +0000
+sergiolepore:Estupideces que uno escucha a diario: "Solo hay dos personas en #Córdoba que pueden programar en #NodeJs..." ... JAJAJAJAJAJAJAJAJAJAJAJA atThu, 21 Mar 2013 23:42:38 +0000
+indexhero:Giving a talk about #nodejs 10.0 atThu, 21 Mar 2013 23:31:52 +0000
+joshyoung360:Just finished converting over to #async from #step in #nodejs  So far I'm liking the extra functionality and stability async provides. atThu, 21 Mar 2013 23:31:16 +0000
+buritica:Live from NY, it's NYC Node.js http://t.co/9MLJzyUsef with @indexzero from @nodejitsu talking about  #nodejs atThu, 21 Mar 2013 23:16:56 +0000
+jalateras:Flow control using #nodejs http://t.co/fLqOMkDQkk atThu, 21 Mar 2013 23:15:28 +0000
+fpp_LND:RT @teabass: I’m still looking for another speaker for LNUG this month, anyone doing anything interesting with #nodejs in London? http://t.co/Bf5Q6yAHrW atThu, 21 Mar 2013 23:12:27 +0000
+wprl:Node v0.10.1 (Stable) • #Nodejs Blog • http://t.co/2L99TB5rWc atThu, 21 Mar 2013 23:02:46 +0000
+jabulmer12:Dose any one know of a tutorial for the #nodejs cuda bindings? #nvidia #help #node atThu, 21 Mar 2013 22:53:44 +0000
+mattykk25u:...learning #nodejs: challenge accepted! atThu, 21 Mar 2013 22:41:35 +0000
+gasparbelandria:RT @StrongLoop: Blog: Here's what's new in #nodejs and #libuv this week - commentary on crypto, performance and repl plus v0.10.1 - http://t.co/46rHNndSZm atThu, 21 Mar 2013 22:35:45 +0000
+mgherkins:RT @NodeJsCommunity: Connecting all cheat sheets 
+http://t.co/0iWdm4fa8S
+#PHP #NodeJS #HTML #jquery http://t.co/rvEDy1eEoA atThu, 21 Mar 2013 22:22:30 +0000
+vitaliy_filipov:RT @borisfilipov: http://t.co/5eVdPximqd ever expanding collection of links related to #nodejs via prototype 2 years old :) atThu, 21 Mar 2013 22:13:42 +0000
+e_quilibre:RT @NewsNodejs: I just released Node.js v0.10.1 stable for ARMv5 and ARMv6 #raspberrypi #nodejs #armel #armhf http://t.co/aQljBJVC9w atThu, 21 Mar 2013 22:02:39 +0000
+itwars:RT @NewsNodejs: I just released Node.js v0.10.1 stable for ARMv5 and ARMv6 #raspberrypi #nodejs #armel #armhf http://t.co/aQljBJVC9w atThu, 21 Mar 2013 21:25:04 +0000
+NewsNodejs:I just released Node.js v0.10.1 stable for ARMv5 and ARMv6 #raspberrypi #nodejs #armel #armhf http://t.co/aQljBJVC9w atThu, 21 Mar 2013 21:24:39 +0000
+radagaisus:hivemind, anyone using node-fibers? #nodejs atThu, 21 Mar 2013 21:06:48 +0000
+thomaswoodson:Working on some Facebook app development today. #coffeescript #stylus #nodejs #twitterbootstrap atThu, 21 Mar 2013 20:49:56 +0000
+tonycurwen:Can Node.js be any cooler? Just rolled out some fancy cache prefetch logic to make up for a slow third party API :) #nodejs atThu, 21 Mar 2013 20:49:21 +0000
+hanksudo:Run NodeJS file on Sublime Text 2 http://t.co/EMqO0samCZ #nodejs #sublimetext atThu, 21 Mar 2013 20:47:36 +0000
+sp_wei:RT @javascriptdebug: How to #debug #javascript for your #HTML5 game http://t.co/5KxnMxBTXH #gamedev #jquery #debugger #nodejs #debugging #extjs #indiedame #idrtg atThu, 21 Mar 2013 20:45:45 +0000
+nodefly:From the NodeFly vault: monitoring the Event Loop in Node.js http://t.co/m1VcC3ksQk #nodejs atThu, 21 Mar 2013 20:45:31 +0000
+visageofscott:RT @dogpellet: Does anyone know of any good #nodejs memory profiling solutions that work in win32? atThu, 21 Mar 2013 20:36:43 +0000
+dogpellet:..at the very least it'd be great to be able to get a #nodejs memory dump in win32. atThu, 21 Mar 2013 20:32:40 +0000
+derricks:RT @dogpellet: Does anyone know of any good #nodejs memory profiling solutions that work in win32? atThu, 21 Mar 2013 20:32:31 +0000
+dogpellet:Does anyone know of any good #nodejs memory profiling solutions that work in win32? atThu, 21 Mar 2013 20:31:49 +0000
+borisfilipov:http://t.co/5eVdPximqd ever expanding collection of links related to #nodejs via prototype 2 years old :) atThu, 21 Mar 2013 20:31:40 +0000
+maccevedor:@samuelb1311 utilizo tu archivo de package.json del vídeo tutorial y me genera mucho errores , estoy mirando el npm-debug.log #nodejs atThu, 21 Mar 2013 20:04:27 +0000
+orlandosanchzjr:losing that drive to #code... need something interesting to be a part of to get me going... any #ideas. #php #nodejs atThu, 21 Mar 2013 19:26:36 +0000
+jmanzanomorilla:Node v0.10.1 http://t.co/mRtcjODD5f #nodejs atThu, 21 Mar 2013 19:24:13 +0000
+drdynscript:Volgende schooljaar even wagen aan #websockets #webrtc #nodejs #github #projectmanagement #unity #phonegap #backbone #upshot #... atThu, 21 Mar 2013 19:20:42 +0000
+tijuanajs:RT @abimaelmartell: falta menos de una semana para mi charla de #nodejs en @tijuanajs :S atThu, 21 Mar 2013 19:02:55 +0000
+hermanjunge:Oh, BTW, 0.10.1 is over there #nodejs atThu, 21 Mar 2013 18:56:02 +0000
+eldermael:RT @abimaelmartell: falta menos de una semana para mi charla de #nodejs en @tijuanajs :S atThu, 21 Mar 2013 18:53:07 +0000
+abimaelmartell:falta menos de una semana para mi charla de #nodejs en @tijuanajs :S atThu, 21 Mar 2013 18:49:45 +0000
+Blenderer:Should I check out #Rubyonrails or should I start being awesome with #nodejs? atThu, 21 Mar 2013 18:33:20 +0000
+nodejsTweets:What's NodeFly Buzz? A peek at cool node.js projects! Check it out on NodeFly's blog: http://t.co/f1hl2UjAFN #nodejs atThu, 21 Mar 2013 18:32:27 +0000
+quackersapp:RT @javascriptdebug: How to #debug #javascript for your #HTML5 game http://t.co/5KxnMxBTXH #gamedev #jquery #debugger #nodejs #debugging #extjs #indiedame #idrtg atThu, 21 Mar 2013 18:24:26 +0000
+dreyacosta:A tope con #Nodejs y #Websockets @madridjs atThu, 21 Mar 2013 18:04:14 +0000
+danigaubert:Ya estamos en #meetup de @madridjs con: Node y WebSockets: Una pareja bien avenida. #javascript #nodeJS atThu, 21 Mar 2013 17:57:38 +0000
+ElbowRoomApps:RT @javascriptdebug: How to #debug #javascript for your #HTML5 game http://t.co/5KxnMxBTXH #gamedev #jquery #debugger #nodejs #debugging #extjs #indiedame #idrtg atThu, 21 Mar 2013 17:56:10 +0000
+nodefly:What's NodeFly Buzz? A peek at cool node.js projects! Check it out on NodeFly's blog: http://t.co/IAfLz9GT9I #nodejs atThu, 21 Mar 2013 17:43:03 +0000
+odoenet:RT @SonOfJorEl: Edge.js : https://t.co/U1zysY08Dw is straight up sorcery. #nodejs #csharp #savant #crazygenius cc: @tjanczuk atThu, 21 Mar 2013 17:41:06 +0000
+cliffn:Found an awesome cheat sheet site for web programming languages. http://t.co/S8vJuJRHt5
+#css #ruby #jquery #php #git #svn #nodeJS #MySQL atThu, 21 Mar 2013 17:34:19 +0000
+tehsuck:Handy list from @balupton: Currently working Node Debuggers / Profilers - http://t.co/fv7cQaAghn  #nodejs atThu, 21 Mar 2013 17:32:41 +0000
+tjanczuk:RT @SonOfJorEl: Edge.js : https://t.co/U1zysY08Dw is straight up sorcery. #nodejs #csharp #savant #crazygenius cc: @tjanczuk atThu, 21 Mar 2013 17:15:44 +0000
+gshipley:RT @StrongLoop: The StrongLoop Node Beta 2 distro is out! Its got a cool new cmd line utility for creating #nodejs apps and modules http://t.co/lPx3m5PISF atThu, 21 Mar 2013 17:12:37 +0000
+nodejsTweets:Websocket over SSL! with HAProxy, Node.js, Nginx http://t.co/Hy7DoSKO1k from @nodejs_code #nodejs #websocket #ssl atThu, 21 Mar 2013 17:07:57 +0000
+y3sh:Just learned a hard lesson about using npm's package.json "backbone":"*", as collection.update suddenly disappeared
+@jashkenas #nodejs #prod atThu, 21 Mar 2013 16:57:04 +0000
+light_js:Websocket over SSL! with HAProxy, Node.js, Nginx http://t.co/ihCZAfKjpB from @nodejs_code #nodejs #websocket #ssl atThu, 21 Mar 2013 16:55:58 +0000
+benyblack:Node Roundup: Express Group Handlers, Fox, iWebPP.io http://t.co/CNbaLMN3z3 #nodejs atThu, 21 Mar 2013 16:53:50 +0000
+NodeJsCommunity:Connecting all cheat sheets 
+http://t.co/0iWdm4fa8S
+#PHP #NodeJS #HTML #jquery http://t.co/rvEDy1eEoA atThu, 21 Mar 2013 16:51:59 +0000
+VincentLu91:RT @javascriptdebug: How to #debug #javascript for your #HTML5 game http://t.co/5KxnMxBTXH #gamedev #jquery #debugger #nodejs #debugging #extjs #indiedame #idrtg atThu, 21 Mar 2013 16:48:58 +0000
+outa7iME:RT @NewsNodejs: Node.js v0.10.1 (Stable) is out #nodejs http://t.co/z1Lnn6fkZW atThu, 21 Mar 2013 16:42:53 +0000
+piscisaureus:RT @StrongLoop: Blog: Here's what's new in #nodejs and #libuv this week - commentary on crypto, performance and repl plus v0.10.1 - http://t.co/46rHNndSZm atThu, 21 Mar 2013 16:41:47 +0000
+thomasbaggio:Connecting all cheat sheets 
+http://t.co/GAtembtRPa
+#PHP #NodeJS #HTML #jquery atThu, 21 Mar 2013 16:39:12 +0000
+StrongLoop:Blog: Here's what's new in #nodejs and #libuv this week - commentary on crypto, performance and repl plus v0.10.1 - http://t.co/46rHNndSZm atThu, 21 Mar 2013 16:33:06 +0000
+sachindavids:RT @robdudley: Sails.js  - The future of API development http://t.co/2OOqd3tnef Rails esque #Nodejs framework! #javascript #node atThu, 21 Mar 2013 16:32:15 +0000
+kevino80:Node v0.10.1 (Stable) http://t.co/Pk09GLPdw5 #nodejs atThu, 21 Mar 2013 16:30:48 +0000
+NewsNodejs:Node.js v0.10.1 (Stable) is out #nodejs http://t.co/z1Lnn6fkZW atThu, 21 Mar 2013 16:28:57 +0000
+nodejsTweets:For your health, we recommend a capsule dose of NodeFly’s Node.js News Round-Up. http://t.co/c78lh30fv3 #nodejs http://t.co/mN2XlXBNTX atThu, 21 Mar 2013 16:27:40 +0000
+LetsNode:Node v0.10.1 (Stable) http://t.co/CgSUcHVSlU #NodeJS #LetsNode atThu, 21 Mar 2013 16:26:22 +0000
+TheSteve0:RT @NodeJsCommunity: Yes.  You can deploy any version you want of #nodejs on #OpenShift. Here's how. http://t.co/axmaewQD5l http://t.co/WO3rv8QjsL atThu, 21 Mar 2013 16:26:00 +0000
+robdudley:Sails.js  - The future of API development http://t.co/c1z7Ru1LjR Rails esque #Nodejs framework! #javascript #node atThu, 21 Mar 2013 16:25:06 +0000
+PythonWeekly:Python Weekly (Issue 79 - March 21, 2013) http://t.co/owyWBqsE58 #python #django #pycon #canopy #nltk #matplotlib #ipython #job #nodejs atThu, 21 Mar 2013 16:23:54 +0000
+TheSteve0:RT @nodefly: Monitor &amp; evaluate your #nodejs application performance with NodeFly on #openshift. It's easy with this quickstart: http://t.co/FG5vCALDJG atThu, 21 Mar 2013 16:23:17 +0000
+planetnodejs:Node v0.10.1 (Stable): 2013.03.21, Version 0.10.1 (Stable)
+
+npm: upgrade to 1.2.15
+
+crypto: Improve p... http://t.co/tE3icdzG9q #nodejs atThu, 21 Mar 2013 16:19:44 +0000
+thl0:New advanced #JavaScript and #nodejs meet-up in #NYC: 
+
+http://t.co/U5FKSqujlZ
+
+Join it to get an invitation to first meet in April. atThu, 21 Mar 2013 16:18:17 +0000
+benyblack:Node v0.10.1 (Stable) http://t.co/dzLJIlTJdI #nodejs atThu, 21 Mar 2013 16:16:43 +0000
+NodeJsCommunity:For your health, we recommend a capsule dose of NodeFly’s Node.js News Round-Up. http://t.co/GWAYaIMxwt #nodejs http://t.co/ayxlR1EAYx atThu, 21 Mar 2013 16:09:44 +0000
+StrongLoop:RT @nodefly: For your health, we recommend a capsule dose of NodeFly’s Node.js News Round-Up. http://t.co/oCia9ZtuJ4 #nodejs atThu, 21 Mar 2013 15:59:28 +0000
+matt_pardee:RT @StrongLoop: The StrongLoop Node Beta 2 distro is out! Its got a cool new cmd line utility for creating #nodejs apps and modules http://t.co/lPx3m5PISF atThu, 21 Mar 2013 15:56:45 +0000
+SonOfJorEl:Edge.js : https://t.co/U1zysY08Dw is straight up sorcery. #nodejs #csharp #savant #crazygenius cc: @tjanczuk atThu, 21 Mar 2013 15:56:04 +0000
